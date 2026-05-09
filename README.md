@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shrey! A Computer Engineering & Management student at McMaster University interested in embedded systems, hardware design, and low-level software. </h1>
+<h1>Hi, I'm Shrey! A Computer Engineering & Management student interested in embedded systems, hardware design, and low-level software. </h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
